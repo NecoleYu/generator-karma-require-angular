@@ -1,0 +1,1 @@
+# Generator-karma-require-angular
